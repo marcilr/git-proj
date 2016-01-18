@@ -5,3 +5,8 @@ Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
 
 Projects
 
+
+Filelist
+========
+resync
+  git wrapper to checkout hierarchical directories from github.
