@@ -8,5 +8,8 @@ Projects
 
 Filelist
 ========
+manifest
+  Manifest for resync application
+
 resync
   git wrapper to checkout hierarchical directories from github.
