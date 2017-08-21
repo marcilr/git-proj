@@ -29,6 +29,9 @@
 #
 # =====================================================================
 
+# MAPI Filter
+ssh://git@github.com/marcilr/mapifilter mapifilter
+
 # Movie metadata
 ssh://git@github.com/marcilr/movie-metadata   movie-metadata
 
