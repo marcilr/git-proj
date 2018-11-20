@@ -29,9 +29,6 @@
 #
 # =====================================================================
 
-# DOA OIT DNR AWStats
-ssh://dnratwtfs:22/tfs/Sandboxes/_git/AWStats  AWStats
-
 # MAPI Filter
 ssh://git@github.com/marcilr/mapifilter mapifilter
 
