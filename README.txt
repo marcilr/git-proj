@@ -11,8 +11,14 @@ Filelist
 .gitignore
   Files for git to ignore
 
+create
+  Script to create files with filename, author, and creation date.
+
 manifest
   Manifest for resync application
 
 projects.txt
   Projects
+
+rmtil.txt
+  Script to remove ~ files
