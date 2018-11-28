@@ -29,6 +29,12 @@
 #
 # =====================================================================
 
+# create - Create new file with filename, author, and creation date
+ssh://git@github.com/marcilr/create   create
+
+# rmtil - Remove ~ files
+ssh://git@github.com/marcilr/rmtil   rmtil
+
 # MAPI Filter
 ssh://git@github.com/marcilr/mapifilter mapifilter
 
