@@ -32,6 +32,9 @@
 # create - Create new file with filename, author, and creation date
 ssh://git@github.com/marcilr/create   create
 
+# resync
+ssh://git@github.com/marcilr/resync   resync
+
 # rmtil - Remove ~ files
 ssh://git@github.com/marcilr/rmtil   rmtil
 
