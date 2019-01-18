@@ -55,3 +55,6 @@ ssh://git@github.com/marcilr/svn-to-git-ORIG   svn-to-git-ORIG
 
 # tivodecode (convert TiVo to m4v)
 ssh://git@github.com/marcilr/tivodecode   tivodecode
+
+# Wallpaper - script to set wallpaper
+ssh://git@github.com/marcilr/wallpaper.git   wallpaper
